@@ -1,2 +1,2 @@
 # IA
-implementing simple NN to predict wheteher a person is Mallignant or Benign
+Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
